@@ -51,3 +51,12 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=quavejPZcYf
  
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0lPFErd_53o/W6lme2UbEtI/AAAAAAAAAEA/a1fApQzkmL0K7CfiYZmXSXLW1-uho0kJwCPcBGAYYCw/s1600/canal26.png",CANAL 26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
+http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA
+https://lavozdetucuman.com/simpsons.m3u8
