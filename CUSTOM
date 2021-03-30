@@ -9,6 +9,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b9331210007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Archivos Forenses
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=3da24cf9-9109-11eb-9ac7-0242ac110002&sid=3da24cf9-9109-11eb-9ac7-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Los nuevos detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=b2426bf1-9183-11eb-ba6a-0242ac110002&sid=b2426bf1-9183-11eb-ba6a-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Misterios sin resolver
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=b2426bf1-9183-11eb-ba6a-0242ac110002&sid=b2426bf1-9183-11eb-ba6a-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=2f46746b-9183-11eb-9662-0242ac110002&sid=2f46746b-9183-11eb-9662-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Historias de ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=6f1018f1-9183-11eb-8364-0242ac110002&sid=6f1018f1-9183-11eb-8364-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=b2426bf1-9183-11eb-ba6a-0242ac110002&sid=b2426bf1-9183-11eb-ba6a-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180907/jes/kisspng-discovery-channel-television-channel-jozi-film-fes--5b92b20e0fbfe9.3936653215363404940645.jpg", Discovery Channel
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/8ha8ro.m3u8?s=_PaOfUwbzHmQ2GXYza4iTA&e=1617078093
 
@@ -48,8 +63,11 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/0e733j.m3u8?s=oW3AmozTfI3Htfz4sr0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOPqGUaj8Y1CqUKFHNSfGnUEb9skC0garxh_CQQZYs_8fGQwsaQIxn-S4iHLS1K2YTEs&usqp=CAU", SyFy
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/u7rbhb.m3u8?s=UHlXkOYK6AMcysRscoQ6hg&e=1617091473
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOPqGUaj8Y1CqUKFHNSfGnUEb9skC0garxh_CQQZYs_8fGQwsaQIxn-S4iHLS1K2YTEs&usqp=CAU", SCI-FI 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOPqGUaj8Y1CqUKFHNSfGnUEb9skC0garxh_CQQZYs_8fGQwsaQIxn-S4iHLS1K2YTEs&usqp=CAU", SyFy 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b5/Sci-Fi_UK_logo_1999.png/revision/latest?cb=20140430122642", SCI-FI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=6c7cc807-9182-11eb-a335-0242ac110002&sid=6c7cc807-9182-11eb-a335-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://rincongeek.es/wp-content/uploads/2019/07/HBO.png", HBO
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=KyszwdQBNKApaUqaRRGS9A&e=1617078621
