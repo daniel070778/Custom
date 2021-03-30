@@ -1,12 +1,12 @@
 #EXTM3U
-﻿
-﻿#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-1_423.png?IHJV.JkGUlQOI5sD5q16kQm4uebNhFls&itok=Ykdm7GbB",Investigation Discovery
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-1_423.png?IHJV.JkGUlQOI5sD5q16kQm4uebNhFls&itok=Ykdm7GbB",Investigation Discovery
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1mptcl1.m3u8?s=ZZ6HfihmbaUO2wwVb4QdnA&e=1617077429
  
-﻿#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180907/jes/kisspng-discovery-channel-television-channel-jozi-film-fes--5b92b20e0fbfe9.3936653215363404940645.jpg",Discovery Channel
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180907/jes/kisspng-discovery-channel-television-channel-jozi-film-fes--5b92b20e0fbfe9.3936653215363404940645.jpg",Discovery Channel
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/8ha8ro.m3u8?s=_PaOfUwbzHmQ2GXYza4iTA&e=1617078093
  
-﻿#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniHFzdy0CXR7ireZfmDdDS89b6GKNsHj5WKyJv0Mg=s900-c-k-c0x00ffffff-no-rj",Discovery H&H
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniHFzdy0CXR7ireZfmDdDS89b6GKNsHj5WKyJv0Mg=s900-c-k-c0x00ffffff-no-rj",Discovery H&H
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/adtxiz8zv.m3u8?s=uQ4q-TZ9m0PUYYtS6nTvEw&e=1617077750
  
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/national-geographic-logo-2143x2143-903315693.jpg",National Geographic
