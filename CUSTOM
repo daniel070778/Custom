@@ -82,10 +82,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=6c7cc807-9182-11eb-a335-0242ac110002&sid=6c7cc807-9182-11eb-a335-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://rincongeek.es/wp-content/uploads/2019/07/HBO.png", HBO
-http://ipeteve.com/php/REGIO_PLAY_456654/regio.php?c=hboplus&f=.m3u8
+http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/309
 
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-2.png", HBO2
-http://ipeteve.com/php/REGIO_PLAY_456654/regio2.php?c=hbo2&f=.m3u8
+http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/310
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png", SIMPSONS MANIA
 https://lavozdetucuman.com/simpsons.m3u8
