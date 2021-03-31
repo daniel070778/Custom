@@ -49,7 +49,7 @@ https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ypxvs0nyn.m3u8?s=ZT4_A5Xjj1atngy3
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/xfzvr.m3u8?s=1w-QSQe0RbdlzFa1ZSPQsA&e=1617080359
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_XVHyCevHJE_5uY7BZDsoD8Mf1UDi1lMZZYRT2jkqXc35AnVbmrxPh4pcEXz3ALtf5s&usqp=CAU", A&E Mundo
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1md5d55ngm.m3u8?s=Ae4n7Anl-aRSELGlOXmgrw&e=1617079105
+http://38.18.238.35:2095/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=JVYvD8TcsMA69ueajBPkBA&expires=1616011160
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
 https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=Snev9cWyYJm0GsegLAOlwQ&e=1617078002
@@ -70,10 +70,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=224096e9-daa7-4b89-b9bf-ed9a76a9729f&clientModelNumber=na&deviceDNT=false&deviceId=224096e9-daa7-4b89-b9bf-ed9a76a9729f&deviceLat=-34.6671&deviceLon=-58.6691&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=6c7cc807-9182-11eb-a335-0242ac110002&sid=6c7cc807-9182-11eb-a335-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://rincongeek.es/wp-content/uploads/2019/07/HBO.png", HBO
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=KyszwdQBNKApaUqaRRGS9A&e=1617078621
+http://ipeteve.com/php/REGIO_PLAY_456654/regio.php?c=hboplus&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-2.png", HBO2
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=quavejPZcYfQ0p2EA4XZjw&e=1617078899
+http://ipeteve.com/php/REGIO_PLAY_456654/regio2.php?c=hbo2&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png", SIMPSONS MANIA
 https://lavozdetucuman.com/simpsons.m3u8
