@@ -27,6 +27,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180907/jes/kisspng-discovery-channel-television-channel-jozi-film-fes--5b92b20e0fbfe9.3936653215363404940645.jpg", Discovery Channel
 http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/283
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTN609uMbLXWHplT3gthITEFazqRHJx-i2Q&usqp=CAU", Discovery Turbo
+http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/286
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/560/372/png-transparent-discovery-world-discovery-channel-discovery-hd-discovery-velocity-others-television-text-logo-thumbnail.png", Discovery World
+https://blackghost.live/play/teleclub-328.php?c=DISCOVERY-WORLD-HD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniHFzdy0CXR7ireZfmDdDS89b6GKNsHj5WKyJv0Mg=s900-c-k-c0x00ffffff-no-rj", Discovery H&H
 http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/284
 
@@ -44,6 +50,12 @@ http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksn
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png", History 2
 http://latinoamericatv.vip:3334/Kaka/Kaka/102
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/El_Gourmet_2016.png/revision/latest/scale-to-width-down/340?cb=20190606041345&path-prefix=es", Gourmet
+https://blackghost.live/play/teleclub-328.php?c=la-el-gourmet&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network
+https://blackghost.live/play/teleclub-328.php?c=la-food-network-hd&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/L9OJDLgKa5OzeZUBh6CV_JhzEFTSY5MEy5jcZo8HzprTV1F3FEHtDZX_SauMdJqH2NiyR2Lwtj6sxs6kocjQP0TdLSv2xdeUwwQml1GjH-zPyTlTff8UFFJrRTzErj5870SGOFx1ctWiXMWeNfCXLio", E! Entertainment
 https://blackghost.live/play/teleclub-328.php?c=la-e-entertainment-hd&f=.m3u8
